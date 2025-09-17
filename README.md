@@ -1,2 +1,2 @@
-# TrashRoyale
-Closed parody of Clash Royale
+# Slavs Royale
+Strategic game with characters from Slavic culture
