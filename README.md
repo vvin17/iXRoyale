@@ -1,2 +1,2 @@
-# Slavs Royale
+# iXRoyale
 Strategic game with characters from Slavic culture
