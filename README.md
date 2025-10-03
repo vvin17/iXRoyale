@@ -1,2 +1,2 @@
 # iXRoyale
-Strategic game
+
